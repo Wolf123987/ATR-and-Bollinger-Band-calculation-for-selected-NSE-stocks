@@ -1,0 +1,1 @@
+# ATR-and-Bollinger-Band-calculation-for-selected-NSE-stocks
